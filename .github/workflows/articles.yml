@@ -1,0 +1,59 @@
+name: Refresh technical articles
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 毎日 11:27 JST。未取得・通信失敗時はREADMEを変更せず失敗として記録します。
+    - cron: '27 2 * * *'
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/articles.yml'
+      - 'scripts/**'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-technical-articles
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout profile repository
+        # actions/checkout@v4 (2026-10-16時点のタグSHAを固定)
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: true
+
+      - name: Setup Node.js
+        # actions/setup-node@v4 (2026-10-16時点のタグSHAを固定)
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
+        with:
+          node-version: '22'
+
+      - name: Test RSS updater
+        run: node --test scripts/update-articles.test.mjs
+
+      - name: Update the latest articles
+        run: node scripts/update-articles.mjs
+
+      - name: Commit only if README changed
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- README.md; then
+            echo 'No new articles to publish.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- README.md
+          git commit -m 'docs: refresh technical articles'
+          git pull --rebase origin main
+          git push origin HEAD:main
