@@ -71,9 +71,9 @@ Java / Spring Bootを中心に、API設計・非同期処理・バックエン�
 Java・AWS・データ設計・開発運用を中心に、実装上の注意点や設計の考え方をまとめています。
 
 <!-- SELECTED-ARTICLES:START -->
-- [Firebaseで権限別共有リンクを導入する：既存URLを壊さないaccessVersion設計](https://chicchi.work/articles/2026-10-11-firebase-share-links-versioned-access/)
-- [GitHub ActionsからAWSへ安全に接続する：OIDCとIAMロールの実装手順](https://chicchi.work/articles/2026-10-10-github-actions-aws-oidc/)
-- [JavaのCompletableFuture：orTimeoutとcompleteOnTimeoutの違いと注意点](https://chicchi.work/articles/2026-10-08-java-completablefuture-timeout/)
+- [Codex Day 10は再びフルリセット！15:28完了までの時系列・対象利用枠・保存チケットとの違い](https://chicchi.work/articles/2026-10-15-codex-day10-reset-complete/)
+- [RedisのKEYSとSCANはどう使い分ける？本番で安全にキーを列挙する実装](https://chicchi.work/articles/2026-10-14-redis-scan-vs-keys/)
+- [Codex Day 9徹底解説：ChatGPT・Codexデスクトップの保存データを約60%削減！対象と確認方法](https://chicchi.work/articles/2026-10-14-codex-day9-desktop-storage/)
 <!-- SELECTED-ARTICLES:END -->
 
 [記事一覧を見る](https://chicchi.work/articles/)
