@@ -71,9 +71,9 @@ Java / Spring Bootを中心に、API設計・非同期処理・バックエン�
 Java・AWS・データ設計・開発運用を中心に、実装上の注意点や設計の考え方をまとめています。
 
 <!-- SELECTED-ARTICLES:START -->
+- [Codex Day 11徹底解説：Model at Capacityエラーを大幅削減、自動再開で長時間タスクが止まりにくく](https://chicchi.work/articles/2026-10-16-codex-day11-capacity-recovery/)
+- [Node\.jsのAsyncLocalStorageでリクエストIDを伝播する：非同期ログ追跡の基本](https://chicchi.work/articles/2026-10-15-node-async-local-storage/)
 - [Codex Day 10は再びフルリセット！15:28完了までの時系列・対象利用枠・保存チケットとの違い](https://chicchi.work/articles/2026-10-15-codex-day10-reset-complete/)
-- [RedisのKEYSとSCANはどう使い分ける？本番で安全にキーを列挙する実装](https://chicchi.work/articles/2026-10-14-redis-scan-vs-keys/)
-- [Codex Day 9徹底解説：ChatGPT・Codexデスクトップの保存データを約60%削減！対象と確認方法](https://chicchi.work/articles/2026-10-14-codex-day9-desktop-storage/)
 <!-- SELECTED-ARTICLES:END -->
 
 [記事一覧を見る](https://chicchi.work/articles/)
