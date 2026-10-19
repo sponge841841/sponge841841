@@ -71,9 +71,9 @@ Java / Spring Bootを中心に、API設計・非同期処理・バックエン�
 Java・AWS・データ設計・開発運用を中心に、実装上の注意点や設計の考え方をまとめています。
 
 <!-- SELECTED-ARTICLES:START -->
+- [Codex Day 13は再び全体リセット！6:12のDone投稿・日本時間の期限・対象利用枠を徹底解説](https://chicchi.work/articles/2026-10-18-codex-day13-global-reset/)
 - [Codex Day 12徹底解説：キャッシュ改善で実質利用量増加！GPT-6 Astra Proの並列エージェントも](https://chicchi.work/articles/2026-10-17-codex-day12-context-cache-usage/)
 - [Codex Day 11徹底解説：Model at Capacityエラーを大幅削減、自動再開で長時間タスクが止まりにくく](https://chicchi.work/articles/2026-10-16-codex-day11-capacity-recovery/)
-- [Node\.jsのAsyncLocalStorageでリクエストIDを伝播する：非同期ログ追跡の基本](https://chicchi.work/articles/2026-10-15-node-async-local-storage/)
 <!-- SELECTED-ARTICLES:END -->
 
 [記事一覧を見る](https://chicchi.work/articles/)
