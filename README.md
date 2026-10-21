@@ -71,9 +71,9 @@ Java / Spring Bootを中心に、API設計・非同期処理・バックエン�
 Java・AWS・データ設計・開発運用を中心に、実装上の注意点や設計の考え方をまとめています。
 
 <!-- SELECTED-ARTICLES:START -->
-- [Codex Day 14徹底解説：デスクトップで過去のメッセージを編集可能に！Steer・Queue・Forkとの違い](https://chicchi.work/articles/2026-10-19-codex-day14-edit-messages/)
-- [Codex Day 13は再び全体リセット！6:12のDone投稿・日本時間の期限・対象利用枠を徹底解説](https://chicchi.work/articles/2026-10-18-codex-day13-global-reset/)
-- [Codex Day 12徹底解説：キャッシュ改善で実質利用量増加！GPT-6 Astra Proの並列エージェントも](https://chicchi.work/articles/2026-10-17-codex-day12-context-cache-usage/)
+- [TypeScriptのunknownと型ガード：外部APIのJSONを安全に扱う](https://chicchi.work/articles/2026-10-20-typescript-unknown-api-guards/)
+- [Codex Day 15更新版：COOKED公式配信＋フルリセット！追加発表と利用枠への影響](https://chicchi.work/articles/2026-10-20-codex-day15-cooked-episode1/)
+- [Java HttpClientのタイムアウト設計：接続待ちと応答待ちを分ける](https://chicchi.work/articles/2026-10-19-java-httpclient-timeouts/)
 <!-- SELECTED-ARTICLES:END -->
 
 [記事一覧を見る](https://chicchi.work/articles/)
