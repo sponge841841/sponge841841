@@ -71,9 +71,9 @@ Java / Spring Bootを中心に、API設計・非同期処理・バックエン�
 Java・AWS・データ設計・開発運用を中心に、実装上の注意点や設計の考え方をまとめています。
 
 <!-- SELECTED-ARTICLES:START -->
+- [PHP2Shell徹底解説：CVE-2026-109618・109619はなぜ認証不要RCEになるのか【図解・対策】](https://chicchi.work/articles/2026-10-22-php2shell-cve-2026-rce-explained/)
+- [Codex Day 16徹底解説：12時間プロンプトキャッシュとWorkの長期再利用、料金・実装・損益分岐点](https://chicchi.work/articles/2026-10-21-codex-day16-prompt-cache-12h/)
 - [TypeScriptのunknownと型ガード：外部APIのJSONを安全に扱う](https://chicchi.work/articles/2026-10-20-typescript-unknown-api-guards/)
-- [Codex Day 15更新版：COOKED公式配信＋フルリセット！追加発表と利用枠への影響](https://chicchi.work/articles/2026-10-20-codex-day15-cooked-episode1/)
-- [Java HttpClientのタイムアウト設計：接続待ちと応答待ちを分ける](https://chicchi.work/articles/2026-10-19-java-httpclient-timeouts/)
 <!-- SELECTED-ARTICLES:END -->
 
 [記事一覧を見る](https://chicchi.work/articles/)
