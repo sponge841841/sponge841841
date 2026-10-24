@@ -71,9 +71,9 @@ Java / Spring Bootを中心に、API設計・非同期処理・バックエン�
 Java・AWS・データ設計・開発運用を中心に、実装上の注意点や設計の考え方をまとめています。
 
 <!-- SELECTED-ARTICLES:START -->
+- [Codex Day 19徹底解説：CLI 0\.164\.0・推論切替のキャッシュ維持・Dots高速化](https://chicchi.work/articles/2026-10-24-codex-day19-cli-0164-cache/)
+- [SNSからSQSへ必要なイベントだけ届ける：FilterPolicyの実装とハマりどころ](https://chicchi.work/articles/2026-10-23-sns-sqs-filter-policy/)
 - [Museとは？ChatGPTやGrok Botとの違いと無料で10億トークンを受け取る方法](https://chicchi.work/articles/2026-10-23-meta-muse-referral-1b-tokens/)
-- [Codex Day 18：連日のリセットとDecisions API正式版・Open Responses標準化](https://chicchi.work/articles/2026-10-23-codex-day18-reset-decisions-api/)
-- [PHP2Shell徹底解説：CVE-2026-109618・109619はなぜ認証不要RCEになるのか【図解・対策】](https://chicchi.work/articles/2026-10-22-php2shell-cve-2026-rce-explained/)
 <!-- SELECTED-ARTICLES:END -->
 
 [記事一覧を見る](https://chicchi.work/articles/)
