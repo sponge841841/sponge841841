@@ -71,9 +71,9 @@ Java / Spring Bootを中心に、API設計・非同期処理・バックエン�
 Java・AWS・データ設計・開発運用を中心に、実装上の注意点や設計の考え方をまとめています。
 
 <!-- SELECTED-ARTICLES:START -->
+- [Reactの定期更新でPNGプレビューがちらつく理由：参照同一性と非同期競合](https://chicchi.work/articles/2026-10-25-react-polling-canvas-preview-flicker/)
+- [Codex Day 20徹底解説：Rest and reset、利用枠リセット完了と反映確認](https://chicchi.work/articles/2026-10-25-codex-day20-rest-reset/)
 - [Java recordとList\.copyOf：変更されないAPI DTOの作り方](https://chicchi.work/articles/2026-10-24-java-record-list-copyof-defensive/)
-- [Codex Day 19徹底解説：CLI 0\.164\.0・推論切替のキャッシュ維持・Dots高速化](https://chicchi.work/articles/2026-10-24-codex-day19-cli-0164-cache/)
-- [SNSからSQSへ必要なイベントだけ届ける：FilterPolicyの実装とハマりどころ](https://chicchi.work/articles/2026-10-23-sns-sqs-filter-policy/)
 <!-- SELECTED-ARTICLES:END -->
 
 [記事一覧を見る](https://chicchi.work/articles/)
