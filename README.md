@@ -71,9 +71,9 @@ Java / Spring Bootを中心に、API設計・非同期処理・バックエン�
 Java・AWS・データ設計・開発運用を中心に、実装上の注意点や設計の考え方をまとめています。
 
 <!-- SELECTED-ARTICLES:START -->
-- [Reactの定期更新でPNGプレビューがちらつく理由：参照同一性と非同期競合](https://chicchi.work/articles/2026-10-25-react-polling-canvas-preview-flicker/)
-- [Codex Day 20徹底解説：Rest and reset、利用枠リセット完了と反映確認](https://chicchi.work/articles/2026-10-25-codex-day20-rest-reset/)
-- [Java recordとList\.copyOf：変更されないAPI DTOの作り方](https://chicchi.work/articles/2026-10-24-java-record-list-copyof-defensive/)
+- [Codex Day 22：GPT-6\.1 Terraを徹底解説｜性能・API料金・Computer Use](https://chicchi.work/articles/2026-10-27-codex-day22-gpt61-terra/)
+- [Javaのtry-with-resources：本当の原因を隠さないsuppressed例外の読み方](https://chicchi.work/articles/2026-10-26-java-try-with-resources-suppressed/)
+- [Codex Day 21徹底解説：2日連続リセットと反映状況・使用量の確認方法](https://chicchi.work/articles/2026-10-26-codex-day21-global-reset/)
 <!-- SELECTED-ARTICLES:END -->
 
 [記事一覧を見る](https://chicchi.work/articles/)
