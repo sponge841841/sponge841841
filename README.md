@@ -71,9 +71,9 @@ Java / Spring Bootを中心に、API設計・非同期処理・バックエン�
 Java・AWS・データ設計・開発運用を中心に、実装上の注意点や設計の考え方をまとめています。
 
 <!-- SELECTED-ARTICLES:START -->
+- [Codex Day 23徹底解説：利用枠リセットとiCloud Mail・Calendar連携の真相](https://chicchi.work/articles/2026-10-28-codex-day23-icloud-reset/)
+- [TypeScriptのexactOptionalPropertyTypesで防ぐPATCH更新の事故](https://chicchi.work/articles/2026-10-27-typescript-exact-optional-patch/)
 - [Codex Day 22：GPT-6\.1 Terraを徹底解説｜性能・API料金・Computer Use](https://chicchi.work/articles/2026-10-27-codex-day22-gpt61-terra/)
-- [Javaのtry-with-resources：本当の原因を隠さないsuppressed例外の読み方](https://chicchi.work/articles/2026-10-26-java-try-with-resources-suppressed/)
-- [Codex Day 21徹底解説：2日連続リセットと反映状況・使用量の確認方法](https://chicchi.work/articles/2026-10-26-codex-day21-global-reset/)
 <!-- SELECTED-ARTICLES:END -->
 
 [記事一覧を見る](https://chicchi.work/articles/)
