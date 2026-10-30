@@ -71,9 +71,9 @@ Java / Spring Bootを中心に、API設計・非同期処理・バックエン�
 Java・AWS・データ設計・開発運用を中心に、実装上の注意点や設計の考え方をまとめています。
 
 <!-- SELECTED-ARTICLES:START -->
-- [Codex Day 23徹底解説：利用枠リセットとiCloud Mail・Calendar連携の真相](https://chicchi.work/articles/2026-10-28-codex-day23-icloud-reset/)
-- [TypeScriptのexactOptionalPropertyTypesで防ぐPATCH更新の事故](https://chicchi.work/articles/2026-10-27-typescript-exact-optional-patch/)
-- [Codex Day 22：GPT-6\.1 Terraを徹底解説｜性能・API料金・Computer Use](https://chicchi.work/articles/2026-10-27-codex-day22-gpt61-terra/)
+- [Codex Day 25徹底解説：Pro・Businessの利用枠2倍とPro 200減枠撤回](https://chicchi.work/articles/2026-10-30-codex-day25-usage-limits-doubled/)
+- [PostgreSQLのNOT VALIDで制約追加を段階化する：CHECKと外部キーの実務手順](https://chicchi.work/articles/2026-10-29-postgresql-not-valid-constraint/)
+- [Codex Day 24解説：DotsにiMessage・RCSで依頼！設定・安全性・利用条件](https://chicchi.work/articles/2026-10-29-codex-day24-dots-texting/)
 <!-- SELECTED-ARTICLES:END -->
 
 [記事一覧を見る](https://chicchi.work/articles/)
