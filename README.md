@@ -71,9 +71,9 @@ Java / Spring Bootを中心に、API設計・非同期処理・バックエン�
 Java・AWS・データ設計・開発運用を中心に、実装上の注意点や設計の考え方をまとめています。
 
 <!-- SELECTED-ARTICLES:START -->
+- [【個人開発】グループ旅行の予定・位置共有・精算をまとめるTrip Supporterを作りました](https://chicchi.work/articles/2026-10-31-tripsupporter-introduction/)
+- [Codex Day 26徹底解説：モバイルのアカウント切り替えと保存型リセット予告](https://chicchi.work/articles/2026-10-31-codex-day26-account-switching/)
 - [Codex Day 25徹底解説：Pro・Businessの利用枠2倍とPro 200減枠撤回](https://chicchi.work/articles/2026-10-30-codex-day25-usage-limits-doubled/)
-- [PostgreSQLのNOT VALIDで制約追加を段階化する：CHECKと外部キーの実務手順](https://chicchi.work/articles/2026-10-29-postgresql-not-valid-constraint/)
-- [Codex Day 24解説：DotsにiMessage・RCSで依頼！設定・安全性・利用条件](https://chicchi.work/articles/2026-10-29-codex-day24-dots-texting/)
 <!-- SELECTED-ARTICLES:END -->
 
 [記事一覧を見る](https://chicchi.work/articles/)
