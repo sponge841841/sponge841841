@@ -71,9 +71,9 @@ Java / Spring Bootを中心に、API設計・非同期処理・バックエン�
 Java・AWS・データ設計・開発運用を中心に、実装上の注意点や設計の考え方をまとめています。
 
 <!-- SELECTED-ARTICLES:START -->
+- [Apple Pencilの複数筆を一括確定する設計：草稿・世代検証・Undo](https://chicchi.work/articles/2026-11-08-pencil-multistroke-atomic-undo/)
 - [PostgreSQLのAdvisory Lockでバッチ二重起動を防ぐ：SQLとJava実装](https://chicchi.work/articles/2026-11-07-postgresql-advisory-lock-batch/)
 - [TypeScriptのnoUncheckedIndexedAccessで配列・辞書のundefined事故を防ぐ](https://chicchi.work/articles/2026-11-06-typescript-no-unchecked-indexed-access/)
-- [PostgreSQLのページネーションをOFFSETからKeysetへ：重複を防ぐSQL設計](https://chicchi.work/articles/2026-11-05-postgresql-keyset-pagination/)
 <!-- SELECTED-ARTICLES:END -->
 
 [記事一覧を見る](https://chicchi.work/articles/)
