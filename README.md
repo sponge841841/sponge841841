@@ -71,9 +71,9 @@ Java / Spring Bootを中心に、API設計・非同期処理・バックエン�
 Java・AWS・データ設計・開発運用を中心に、実装上の注意点や設計の考え方をまとめています。
 
 <!-- SELECTED-ARTICLES:START -->
+- [S3 Glacier Deep Archiveの180日ルールとバックアップ運用：Lifecycle・復元・料金の落とし穴](https://chicchi.work/articles/2026-11-11-s3-deep-archive-lifecycle-backups/)
 - [Jevは何が進化した？ 1\.14の画像入力・Box・長文対応と実装の勘所](https://chicchi.work/articles/2026-11-10-jev-model-evolution/)
 - [Springの@TransactionalEventListenerでつまずくAFTER\_COMMITとDB更新](https://chicchi.work/articles/2026-11-09-spring-transactional-event-listener/)
-- [Apple Pencilの複数筆を一括確定する設計：草稿・世代検証・Undo](https://chicchi.work/articles/2026-11-08-pencil-multistroke-atomic-undo/)
 <!-- SELECTED-ARTICLES:END -->
 
 [記事一覧を見る](https://chicchi.work/articles/)
