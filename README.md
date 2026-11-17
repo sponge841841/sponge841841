@@ -71,9 +71,9 @@ Java / Spring Bootを中心に、API設計・非同期処理・バックエン�
 Java・AWS・データ設計・開発運用を中心に、実装上の注意点や設計の考え方をまとめています。
 
 <!-- SELECTED-ARTICLES:START -->
+- [カリフォルニア州がOpenAIを提訴：AIエージェント事故「80件」主張の争点と対策](https://chicchi.work/articles/2026-11-17-california-openai-ai-agent-lawsuit/)
+- [Suicaの改札タッチでNewDaysのクーポンを受け取るには？](https://chicchi.work/articles/2026-11-16-suica-newdays-touch-coupon/)
 - [NTTのAI脆弱性解析が48%→63%に改善：ソースコードを外部に出さない「ソブリンAI」とは](https://chicchi.work/articles/2026-11-16-ntt-sovereign-ai-security/)
-- [SQS FIFOキューの順序保証と重複排除：MessageGroupIdをJavaで設計する](https://chicchi.work/articles/2026-11-12-sqs-fifo-message-group-dedup/)
-- [S3 Glacier Deep Archiveの180日ルールとバックアップ運用：Lifecycle・復元・料金の落とし穴](https://chicchi.work/articles/2026-11-11-s3-deep-archive-lifecycle-backups/)
 <!-- SELECTED-ARTICLES:END -->
 
 [記事一覧を見る](https://chicchi.work/articles/)
