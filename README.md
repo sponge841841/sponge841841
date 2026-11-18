@@ -71,9 +71,9 @@ Java / Spring Bootを中心に、API設計・非同期処理・バックエン�
 Java・AWS・データ設計・開発運用を中心に、実装上の注意点や設計の考え方をまとめています。
 
 <!-- SELECTED-ARTICLES:START -->
+- [GPT-6\.2 AstraとSolの違い：トークン効率・キャッシュ・料金の仕組みを解説](https://chicchi.work/articles/2026-11-18-gpt62-astra-sol-efficiency/)
+- [イオンのパスキー認証とは？マイナンバーカードの準備と登録方法をやさしく解説](https://chicchi.work/articles/2026-11-18-aeon-passkey-beginners/)
 - [カリフォルニア州がOpenAIを提訴：AIエージェント事故「80件」主張の争点と対策](https://chicchi.work/articles/2026-11-17-california-openai-ai-agent-lawsuit/)
-- [Suicaの改札タッチでNewDaysのクーポンを受け取るには？](https://chicchi.work/articles/2026-11-16-suica-newdays-touch-coupon/)
-- [NTTのAI脆弱性解析が48%→63%に改善：ソースコードを外部に出さない「ソブリンAI」とは](https://chicchi.work/articles/2026-11-16-ntt-sovereign-ai-security/)
 <!-- SELECTED-ARTICLES:END -->
 
 [記事一覧を見る](https://chicchi.work/articles/)
