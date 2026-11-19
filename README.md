@@ -71,9 +71,9 @@ Java / Spring Bootを中心に、API設計・非同期処理・バックエン�
 Java・AWS・データ設計・開発運用を中心に、実装上の注意点や設計の考え方をまとめています。
 
 <!-- SELECTED-ARTICLES:START -->
-- [GPT-6\.2 AstraとSolの違い：トークン効率・キャッシュ・料金の仕組みを解説](https://chicchi.work/articles/2026-11-18-gpt62-astra-sol-efficiency/)
-- [イオンのパスキー認証とは？マイナンバーカードの準備と登録方法をやさしく解説](https://chicchi.work/articles/2026-11-18-aeon-passkey-beginners/)
-- [カリフォルニア州がOpenAIを提訴：AIエージェント事故「80件」主張の争点と対策](https://chicchi.work/articles/2026-11-17-california-openai-ai-agent-lawsuit/)
+- [UQ親子応援割2026とは？家族の対象条件と1年間の料金、300GBの受け取り方](https://chicchi.work/articles/2026-11-19-uq-family-discount-explained/)
+- [noteのAI参照還元とは？対象者・受け取り方・1万円の手続き期限を解説](https://chicchi.work/articles/2026-11-19-note-ai-reference-revenue-guide/)
+- [NGINXのHTTP/2脆弱性を解説：CVE-2026-123007・123633の仕組みと対策](https://chicchi.work/articles/2026-11-19-nginx-http2-rce-123007-123633/)
 <!-- SELECTED-ARTICLES:END -->
 
 [記事一覧を見る](https://chicchi.work/articles/)
