@@ -71,9 +71,9 @@ Java / Spring Bootを中心に、API設計・非同期処理・バックエン�
 Java・AWS・データ設計・開発運用を中心に、実装上の注意点や設計の考え方をまとめています。
 
 <!-- SELECTED-ARTICLES:START -->
-- [Yahoo\!ショッピングのAIおトクスケジュールとは？使い方と購入前の確認点](https://chicchi.work/articles/2026-11-20-yahoo-shopping-ai-deal-schedule-guide/)
-- [RimoのChrome拡張とは？GoogleカレンダーからAI議事録を予約する方法と注意点](https://chicchi.work/articles/2026-11-20-rimo-calendar-recording-guide/)
-- [福岡市のAIごみ分別「ごみしるべ」とは？LINEでの使い方と2027年プラ分別の注意点](https://chicchi.work/articles/2026-11-20-fukuoka-gomishirube-line-ai-guide/)
+- [TikTokのAI生成チェックとは？動画の確認方法と肖像検出の使い方](https://chicchi.work/articles/2026-11-21-tiktok-ai-content-check-guide/)
+- [Payどんの個人情報漏えいとサービス停止とは？利用者が今確認すること](https://chicchi.work/articles/2026-11-21-paydon-service-stop-data-leak-guide/)
+- [dカード プリペイド終了はいつ？チャージ停止・残高の使い方・払戻しを解説](https://chicchi.work/articles/2026-11-21-dcard-prepaid-end-refund-guide/)
 <!-- SELECTED-ARTICLES:END -->
 
 [記事一覧を見る](https://chicchi.work/articles/)
