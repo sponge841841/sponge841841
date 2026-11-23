@@ -71,9 +71,9 @@ Java / Spring Bootを中心に、API設計・非同期処理・バックエン�
 Java・AWS・データ設計・開発運用を中心に、実装上の注意点や設計の考え方をまとめています。
 
 <!-- SELECTED-ARTICLES:START -->
-- [ガンダムSEED FREEDOMをニコニコで見るには？生放送・見放題と料金の違い](https://chicchi.work/articles/2026-11-22-niconico-seed-freedom-viewing-guide/)
-- [LINEマンガ・ebookjapanのメガトクとは？99円セールの選び方と期限](https://chicchi.work/articles/2026-11-22-line-manga-ebookjapan-megatoku-guide/)
-- [AWAの3か月100円キャンペーンとは？対象条件・登録方法・解約時期を解説](https://chicchi.work/articles/2026-11-22-awa-three-month-100yen-guide/)
+- [StickerAIでLINEスタンプを作るには？画像作成・ZIP申請と注意点](https://chicchi.work/articles/2026-11-23-stickerai-line-stamp-export-guide/)
+- [ジオクラとは？写真1枚から紙の家を作る方法・料金・応募期限を解説](https://chicchi.work/articles/2026-11-23-geocra-paper-model-photo-guide/)
+- [Digroundの文字ピンとは？地図に漢字・絵文字を置く方法と共有の注意点](https://chicchi.work/articles/2026-11-23-diground-text-pin-guide/)
 <!-- SELECTED-ARTICLES:END -->
 
 [記事一覧を見る](https://chicchi.work/articles/)
