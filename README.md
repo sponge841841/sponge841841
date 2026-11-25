@@ -71,9 +71,9 @@ Java / Spring Bootを中心に、API設計・非同期処理・バックエン�
 Java・AWS・データ設計・開発運用を中心に、実装上の注意点や設計の考え方をまとめています。
 
 <!-- SELECTED-ARTICLES:START -->
-- [ChatGPTとCodexの利用枠は12月から共有へ：Instant・Thinkingとトークン計上の違い](https://chicchi.work/articles/2026-11-24-chatgpt-codex-shared-usage/)
-- [CDエナジーの音声AI電話窓口とは？契約変更・請求の手続きと注意点](https://chicchi.work/articles/2026-11-24-cdenergy-voice-ai-guide/)
-- [StickerAIでLINEスタンプを作るには？画像作成・ZIP申請と注意点](https://chicchi.work/articles/2026-11-23-stickerai-line-stamp-export-guide/)
+- [アプリ不要のデジタルスタンプラリーとは？QRコードとGPSで参加する仕組み](https://chicchi.work/articles/2026-11-25-stamp-rally-qr-gps-guide/)
+- [OpenAIが行列積の指数2\.25を主張：計算量の下限とLeanによる形式検証](https://chicchi.work/articles/2026-11-25-openai-matrix-multiplication-exponent/)
+- [Chrome版LINEが2027年1月に終了へ：同じアカウントで使い続ける方法](https://chicchi.work/articles/2026-11-25-line-browser-end-guide/)
 <!-- SELECTED-ARTICLES:END -->
 
 [記事一覧を見る](https://chicchi.work/articles/)
