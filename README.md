@@ -71,9 +71,9 @@ Java / Spring Bootを中心に、API設計・非同期処理・バックエン�
 Java・AWS・データ設計・開発運用を中心に、実装上の注意点や設計の考え方をまとめています。
 
 <!-- SELECTED-ARTICLES:START -->
-- [アプリ不要のデジタルスタンプラリーとは？QRコードとGPSで参加する仕組み](https://chicchi.work/articles/2026-11-25-stamp-rally-qr-gps-guide/)
-- [OpenAIが行列積の指数2\.25を主張：計算量の下限とLeanによる形式検証](https://chicchi.work/articles/2026-11-25-openai-matrix-multiplication-exponent/)
-- [Chrome版LINEが2027年1月に終了へ：同じアカウントで使い続ける方法](https://chicchi.work/articles/2026-11-25-line-browser-end-guide/)
+- [タイムズカーのお見舞金3,000円はどう受け取る？対象と偽メールへの注意点](https://chicchi.work/articles/2026-11-26-times-car-compensation-guide/)
+- [GoogleのCogenticとは？Gemini 4の数学研究と証明・検証を繰り返すAIの仕組み](https://chicchi.work/articles/2026-11-26-google-cogentic-proof-discovery/)
+- [Amazonの子ども向けタブレットは何が違う？利用時間・アプリ・課金を管理する方法](https://chicchi.work/articles/2026-11-26-amazon-kids-parental-controls/)
 <!-- SELECTED-ARTICLES:END -->
 
 [記事一覧を見る](https://chicchi.work/articles/)
