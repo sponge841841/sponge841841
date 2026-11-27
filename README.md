@@ -71,9 +71,9 @@ Java / Spring Bootを中心に、API設計・非同期処理・バックエン�
 Java・AWS・データ設計・開発運用を中心に、実装上の注意点や設計の考え方をまとめています。
 
 <!-- SELECTED-ARTICLES:START -->
-- [タイムズカーのお見舞金3,000円はどう受け取る？対象と偽メールへの注意点](https://chicchi.work/articles/2026-11-26-times-car-compensation-guide/)
-- [GoogleのCogenticとは？Gemini 4の数学研究と証明・検証を繰り返すAIの仕組み](https://chicchi.work/articles/2026-11-26-google-cogentic-proof-discovery/)
-- [Amazonの子ども向けタブレットは何が違う？利用時間・アプリ・課金を管理する方法](https://chicchi.work/articles/2026-11-26-amazon-kids-parental-controls/)
+- [PayPayマネーライトは現金化できる？残高の違いと注意点をやさしく解説](https://chicchi.work/articles/2026-11-27-paypay-money-lite-cashout-guide/)
+- [AMD GPU向けllama\.cppの高速化とは？RDNA向け量子化・Prefill・Decodeの仕組み](https://chicchi.work/articles/2026-11-27-llama-cpp-rdna-inference/)
+- [災害時の音声翻訳はどう役立つ？DeepLの無償支援と多言語防災の備え](https://chicchi.work/articles/2026-11-27-deepl-disaster-translation-guide/)
 <!-- SELECTED-ARTICLES:END -->
 
 [記事一覧を見る](https://chicchi.work/articles/)
