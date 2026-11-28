@@ -71,9 +71,9 @@ Java / Spring Bootを中心に、API設計・非同期処理・バックエン�
 Java・AWS・データ設計・開発運用を中心に、実装上の注意点や設計の考え方をまとめています。
 
 <!-- SELECTED-ARTICLES:START -->
+- [unkernelとは？LinuxをWebAssemblyでブラウザ内実行する仕組みと仮想マシンとの違い](https://chicchi.work/articles/2026-11-28-unkernel-linux-webassembly/)
+- [シンプルスマホ8は何が違う？家族で使いやすいスマホを選ぶ方法](https://chicchi.work/articles/2026-11-28-simple-sumaho8-beginners-guide/)
 - [PayPayマネーライトは現金化できる？残高の違いと注意点をやさしく解説](https://chicchi.work/articles/2026-11-27-paypay-money-lite-cashout-guide/)
-- [AMD GPU向けllama\.cppの高速化とは？RDNA向け量子化・Prefill・Decodeの仕組み](https://chicchi.work/articles/2026-11-27-llama-cpp-rdna-inference/)
-- [災害時の音声翻訳はどう役立つ？DeepLの無償支援と多言語防災の備え](https://chicchi.work/articles/2026-11-27-deepl-disaster-translation-guide/)
 <!-- SELECTED-ARTICLES:END -->
 
 [記事一覧を見る](https://chicchi.work/articles/)
